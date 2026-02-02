@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1997<br>📚 I'm currently learning about IA<br>🎯 Goals: be a reference someday<br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 1997<br>📚 I'm currently learning about IA<br>🎯 Goals: be a reference someday<br>🎲 Fun fact: I have one gene mutation haha</p>
 
 ###
 
